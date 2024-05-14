@@ -61,4 +61,5 @@ def asterisk(data, exceptKeys=[]):
         return data
 
 def ht(data, exceptKeys=[]):
+    return data
     return asterisk(data, exceptKeys)    
